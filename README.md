@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Back-End+Developer+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+Java;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Back-End+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Java;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 class GerisS Silva:
     nome     = "Geris Silva"
     foco     = "Back-end Development"
-    stack    = ["Python", "TypeScript", "JavaScript", "Java", "SQL"]
+    stack    = ["Python", "JavaScript", "Java", "SQL"]
     interesses = ["IoT", "Arduino", "Automação", "Banco de Dados"]
     motto    = "Lógica, performance e boas práticas acima de tudo."
 ```
@@ -39,7 +39,6 @@ class GerisS Silva:
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-E38C00?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -131,11 +130,13 @@ class GerisS Silva:
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Feito com 💙 e muito café por Geris Silva
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer&text=Geris%20Silva&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling&desc=Back-End%20Developer%20%7C%20Transformando%20ideias%20em%20c%C3%B3digo&descSize=14&descAlignY=85&descColor=00d9ff" />
+
+<br/>
+
+> *"Código limpo não é escrito seguindo regras — é escrito por alguém que se importa."*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GERISSILVA&color=00d9ff&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
