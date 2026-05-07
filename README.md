@@ -1,15 +1,18 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          GERIS SILVA — BACK-END DEVELOPER            ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,100:00d9ff&height=200&section=header&text=Geris%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Back-End%20Developer%20%7C%20Python%20%7C%20Java%20%7C%20IoT&descSize=16&descAlignY=68&descColor=a0e8ff" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Back-End+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Java;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&height=45&lines=Construindo+sistemas+robustos+e+eficientes+%F0%9F%9A%80;Apaixonado+por+lógica+e+boas+práticas+%F0%9F%A7%A0;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-GERISSILVA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GERISSILVA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geris%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerissilva)
+
 </div>
 
 ---
@@ -17,12 +20,15 @@
 ## 👨‍💻 Sobre mim
 
 ```python
-class GerisS Silva:
-    nome     = "Geris Silva"
-    foco     = "Back-end Development"
-    stack    = ["Python", "JavaScript", "Java", "SQL"]
+class GerisSilva:
+    nome       = "Geris Silva"
+    foco       = "Back-end Development"
+    stack      = ["Python", "JavaScript", "Java", "SQL"]
     interesses = ["IoT", "Arduino", "Automação", "Banco de Dados"]
-    motto    = "Lógica, performance e boas práticas acima de tudo."
+    motto      = "Lógica, performance e boas práticas acima de tudo."
+
+    def hello_world(self):
+        print("Seja bem-vindo ao meu perfil! 🤝")
 ```
 
 - 🔧 **Back-end developer** focado em sistemas robustos e eficientes
@@ -74,19 +80,7 @@ class GerisS Silva:
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-> ⚙️ *Para ativar as estatísticas semanais de código, siga o passo a passo abaixo.*
-<!--END_SECTION:waka-->
 
-<!-- 
-  🔧 COMO ATIVAR O WAKATIME (estatísticas semanais reais):
-  1. Crie uma conta gratuita em https://wakatime.com
-  2. Instale o plugin WakaTime no seu editor (VS Code, IntelliJ, etc.)
-  3. Vá em https://github.com/anmol098/waka-readme-stats e siga as instruções
-  4. Adicione seu WAKATIME_API_KEY nos Secrets do repositório
-  5. Crie o arquivo .github/workflows/waka-readme.yml no seu repo
-  Depois disso, este bloco será preenchido automaticamente toda semana!
--->
 
 </div>
 
