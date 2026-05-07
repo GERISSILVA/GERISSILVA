@@ -76,7 +76,15 @@ class GerisSilva:
 
 ---
 
+## ⏱️ Estatísticas de Código — Última Semana
 
+<div align="center">
+
+
+
+</div>
+
+---
 
 ## 🔢 Total de Commits
 
