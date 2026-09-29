@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/chip.svg" alt="Processador" width="600" />
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -52,4 +56,13 @@ class GerisSilva:
 
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" alt="Footer" />
+</p>
